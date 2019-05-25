@@ -1,0 +1,1 @@
+# rx-small-projectsis an explanatory projects that have small projects as modules that show some cases of using and integrating rx java in android real projects. and theses projectes are taken from https://www.androidhive.info/RxJava/tutorials/ 
